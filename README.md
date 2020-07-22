@@ -57,4 +57,4 @@
 
 Twitter: <a href="https://twitter.com/cfeng622">@cfeng622</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqDalFzrGgJVirVJ_y-EpF36geEjQgQOMKNzp4OR4KgtPAFA/viewform?embedded=true" width="400" height="645" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqDalFzrGgJVirVJ_y-EpF36geEjQgQOMKNzp4OR4KgtPAFA/viewform?embedded=true" width="300" height="645" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

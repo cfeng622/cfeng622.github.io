@@ -7,7 +7,7 @@
 <div class="article-list">
   <a href="https://www.mcsweeneys.net/articles/am-i-the-enemy-or-the-hero">Am I the enemy or the hero?</a> <i>McSweeney's</i><br/>
   <a href="https://www.kevinmd.com/blog/2020/01/finding-meaning-in-the-intersection-between-marriage-and-medicine.html">Finding meaning at the intersection between marriage and medicine</a> <i>KevinMD</i><br/>
-  <a href="https://www.statnews.com/2019/12/11/oral-immunotherapy-game-changer-food-allergies/">Oral immunotherapy can be a game changer for many with food allergies</a>, <i>Stat News</i><br/>
+  <a href="https://www.statnews.com/2019/12/11/oral-immunotherapy-game-changer-food-allergies/">Oral immunotherapy can be a game changer for many with food allergies</a> <i>Stat News</i><br/>
   <a href="https://www.kevinmd.com/blog/2019/11/how-zdoggmd-inspires-this-physician.html">How ZDoggMD inspires this physician</a> <i>KevinMD</i><br/>
   <a href="https://www.kqed.org/perspectives/201601138437/basketball-memories">Basketball memories</a> <i>NPR Perspectives</i><br/>
   <a href="https://stanfordmag.org/contents/wedding-belle">Wedding belle</a> <i>Stanford Magazine</i><br/>

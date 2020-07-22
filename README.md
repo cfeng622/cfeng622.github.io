@@ -17,7 +17,6 @@
 <div class="subsection-title">Academic</div>
 
 <div class="article-list">
-  <span style="color:black;">Medical Twitter: A novel way to stay informed in allergy/immunology</span> <i>Journal of Allergy and Clinical Immunology: In Practice</i> (in press)<br/>
   <a href="https://pubmed.ncbi.nlm.nih.gov/30171460/">Beyond avoidance: the psychosocial impact of food allergies</a> <i>Clinical Reviews in Allergy and Immunology</i><br/>
   <a href="https://link.springer.com/article/10.1007/s12016-015-8467-x">Histamine (scombroid) fish poisoning: a comprehensive review</a> <i>Clinical Reviews in Allergy and Immunology</i><br/>
   <a href="https://www.annallergy.org/article/S1081-1206(12)00938-6/fulltext">Characterization of aspirin allergies in patients with coronary artery disease</a> <i>Annals of Allergy Asthma and Immunology</i><br/>
@@ -40,7 +39,6 @@
 # Press
 
 <div class="article-list">
-  <span style="color:black;">Impact of food allergies on mental health</span> <i>Nature</i> (in press)<br/>
   <a href="https://www.nytimes.com/2020/02/14/us/california-love-stories.html">On Valentine's Day, this one goes out to all the lovers</a> <i>New York Times</i><br/>
   <a href="https://www.washingtonpost.com/national/health-science/her-doctor-said-she-had-the-flu-it-took-years-to-find-the-real-and-strange-illness/2018/06/22/6d30a504-5862-11e8-858f-12becb4d6067_story.html">Her doctor said she had the flu. It took years to find the real, and strange, illness</a> <i>Washington Post</i><br/>
   <a href="https://www.elcaminohealth.org/services/chinese-health-initiative/conditions-treatments/health-article-experts/exposure-to-allergens-during-childhood-zh">幼兒期接觸過敏原 降低過敏機率</a> <i>El Camino Health</i><br/>
@@ -57,4 +55,4 @@
 
 Twitter: <a href="https://twitter.com/cfeng622">@cfeng622</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeqDalFzrGgJVirVJ_y-EpF36geEjQgQOMKNzp4OR4KgtPAFA/viewform?embedded=true" width="300" height="645" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScuZDMRZUFytC_wv_HOmDulgNoO2TWrB54Nz-1peX-0Y0lABA/viewform?embedded=true" width="300" height="645" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

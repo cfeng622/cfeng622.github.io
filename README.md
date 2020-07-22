@@ -5,13 +5,13 @@
 <div class="subsection-title">Essays</div>
 
 <div class="article-list">
-  <a href="https://www.mcsweeneys.net/articles/am-i-the-enemy-or-the-hero">Am I the enemy or the hero?</a> <i>McSweeney's</i><br/>
-  <a href="https://www.kevinmd.com/blog/2020/01/finding-meaning-in-the-intersection-between-marriage-and-medicine.html">Finding meaning at the intersection between marriage and medicine</a> <i>KevinMD</i><br/>
-  <a href="https://www.statnews.com/2019/12/11/oral-immunotherapy-game-changer-food-allergies/">Oral immunotherapy can be a game changer for many with food allergies</a> <i>Stat News</i><br/>
-  <a href="https://www.kevinmd.com/blog/2019/11/how-zdoggmd-inspires-this-physician.html">How ZDoggMD inspires this physician</a> <i>KevinMD</i><br/>
-  <a href="https://www.kqed.org/perspectives/201601138437/basketball-memories">Basketball memories</a> <i>NPR Perspectives</i><br/>
-  <a href="https://stanfordmag.org/contents/wedding-belle">Wedding belle</a> <i>Stanford Magazine</i><br/>
-  <a href="https://www.kevinmd.com/blog/2012/12/story-dying-ended-story-living.html">A story about dying that ended up being a story about living</a> <i>KevinMD</i><br/>
+  <div class="article"><a href="https://www.mcsweeneys.net/articles/am-i-the-enemy-or-the-hero">Am I the enemy or the hero?</a> <i>McSweeney's</i></div>
+  <div class="article"><a href="https://www.kevinmd.com/blog/2020/01/finding-meaning-in-the-intersection-between-marriage-and-medicine.html">Finding meaning at the intersection between marriage and medicine</a> <i>KevinMD</i></div>
+  <div class="article"><a href="https://www.statnews.com/2019/12/11/oral-immunotherapy-game-changer-food-allergies/">Oral immunotherapy can be a game changer for many with food allergies</a> <i>Stat News</i></div>
+  <div class="article"><a href="https://www.kevinmd.com/blog/2019/11/how-zdoggmd-inspires-this-physician.html">How ZDoggMD inspires this physician</a> <i>KevinMD</i></div>
+  <div class="article"><a href="https://www.kqed.org/perspectives/201601138437/basketball-memories">Basketball memories</a> <i>NPR Perspectives</i></div>
+  <div class="article"><a href="https://stanfordmag.org/contents/wedding-belle">Wedding belle</a> <i>Stanford Magazine</i></div>
+  <div class="article"><a href="https://www.kevinmd.com/blog/2012/12/story-dying-ended-story-living.html">A story about dying that ended up being a story about living</a> <i>KevinMD</i></div>
 </div>
 
 <div class="subsection-title">Academic</div>

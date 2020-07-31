@@ -54,6 +54,8 @@
 
 # Connect
 
-Twitter: <a href="https://twitter.com/cfeng622">@cfeng622</a>.
-
 <a href="/contact/">Contact by email</a>
+
+Twitter: <a href="https://twitter.com/cfeng622">@cfeng622</a>
+
+

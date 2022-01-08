@@ -2,7 +2,7 @@
 
 # Writing
 
-<p><span class="highlight">Highlighting</span> a few of my favorites</p>
+<p>... with a few of my favorites <span class="highlight">highlighted</span></p>
 
 <div class="subsection-title">Essays</div>
 

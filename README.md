@@ -2,11 +2,14 @@
 
 # Writing
 
+<p><span class="highlight">Highlighting</span> a few of my favorites</p>
+
 <div class="subsection-title">Essays</div>
 
 <div class="article-list">
-  <div class="article"><a href="https://www.washingtonpost.com/outlook/2020/07/22/men-grieve-miscarriages-alone/">Men also grieve miscarriages</a> <i>Washington Post</i></div>
-  <div class="article"><a href="https://www.mcsweeneys.net/articles/am-i-the-enemy-or-the-hero">Am I the enemy or the hero?</a> <i>McSweeney's</i></div>
+  <div class="article"><a href="https://www.kqed.org/perspectives/201601141658/charles-feng-true-american">True American</a> <i>NPR Perspectives</i></div>
+  <div class="article"><a href="https://www.washingtonpost.com/outlook/2020/07/22/men-grieve-miscarriages-alone/"><span class="highlight">Men also grieve miscarriages</span></a> <i>Washington Post</i></div>
+  <div class="article"><a href="https://www.mcsweeneys.net/articles/am-i-the-enemy-or-the-hero"><span class="highlight">Am I the enemy or the hero?</span></a> <i>McSweeney's</i></div>
   <div class="article"><a href="https://www.kevinmd.com/blog/2020/01/finding-meaning-in-the-intersection-between-marriage-and-medicine.html">Finding meaning at the intersection between marriage and medicine</a> <i>KevinMD</i></div>
   <div class="article"><a href="https://www.statnews.com/2019/12/11/oral-immunotherapy-game-changer-food-allergies/">Oral immunotherapy can be a game changer for many with food allergies</a> <i>Stat News</i></div>
   <div class="article"><a href="https://www.kevinmd.com/blog/2019/11/how-zdoggmd-inspires-this-physician.html">How ZDoggMD inspires this physician</a> <i>KevinMD</i></div>
